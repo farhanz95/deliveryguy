@@ -1,0 +1,20 @@
+.ml10 {
+    margin-left : 10px;
+}.mr10 {
+    margin-right : 10px;
+}.mb10 {
+    margin-bottom : 10px;
+}.mt10 {
+	margin-top : 10px;
+}
+
+td .fc-day:hover {
+	cursor : pointer;
+	/*border-style : solid;
+	border-color: #000;*/
+}
+
+/*table td:nth-child(n) {
+	border-style : solid;
+	border-color: #000;
+}*/
